@@ -15,7 +15,7 @@
 
   {{-- 支払い方法 --}}
     <div class="form-group mt-3 border-bottom pb-3">
-      <div style="font-size: 24px;">支払い方法</div>
+      <div style="font-size: 24px;">支払方法</div>
       <br>
       <div class="form-check" style="text-align: left;">
         @if (Auth::user()->pays)
